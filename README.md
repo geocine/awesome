@@ -60,6 +60,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Porto](https://github.com/Mahmoudz/Porto): Porto is a Modern Software Architectural Pattern
 - [Design Patterns in PHP](https://github.com/domnikl/DesignPatternsPHP): sample code for several design patterns in PHP
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
+- [minipack](https://github.com/ronami/minipack): A simplified example of a modern module bundler written in JavaScript
 
 ## Applications
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Easy to get started sample reference microservice and container based applicatio
@@ -78,13 +79,19 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [PaperBack](https://github.com/art-drobanov/PaperBack): PaperBack is a free application that allows you to back up your precious files on the ordinary paper (http://ollydbg.de/Paperbak/).
 - [InvoiceNinja](https://github.com/invoiceninja/invoiceninja): Invoices, Expenses and Tasks built with Laravel and Flutter
 - [cubemania](https://github.com/timhabermaas/cubemania): keep track of your times, compare yourself with others
+- [musilcube](https://github.com/clangen/musikcube): a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
+- [FastHub](https://github.com/k0shk0sh/FastHub): FastHub the ultimate GitHub client for Android.
 
 ## Design Systems / UI Toolkits
 - [Ant Design](https://github.com/ant-design/ant-design): A UI Design Language
 - [VMWare Clarity](https://github.com/vmware/clarity): UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
 - [Akveo Nebular](https://github.com/akveo/nebular): Angular 7 Components, Auth and Security
 - [Blaze](https://github.com/BlazeSoftware/blaze): Framework-free open source UI toolkit
-- [SkyUX2](https://github.com/blackbaud/skyux2): SKY UX 2 is the new version of Blackbaud’s user experience framework that implements Blackbaud design patterns
+
+## Games Tools
+- [Craft](https://github.com/fogleman/Craft): A simple Minecraft clone written in C using modern OpenGL (shaders).
+- [Terraria Map Editor](https://github.com/TEdit/Terraria-Map-Editor): TEdit is a stand alone, open source map editor for Terraria.
+- [MercuryTrade](https://github.com/Exslims/MercuryTrade): An overlay application for Path of Exile(Tracking, Trading, Chat, etc)
 
 ## Admin Templates
 - [tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
