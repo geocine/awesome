@@ -15,10 +15,12 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Terminal Fonts](https://github.com/gabrielelana/awesome-terminal-fonts): Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [love2d](https://github.com/love2d-community/awesome-love2d): A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing): A curated list of resources around the topic: visual regression testing
-- [Android Architecture](https://github.com/googlesamples/android-architecture): A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [API Development Tools](https://github.com/yosriady/api-development-tools): A collection of useful resources for building RESTful HTTP+JSON APIs.
 - [Portable Apps](https://github.com/portapps/portapps): Collection of portable apps for Windows
 - [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer): Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more
+- [headlesscms.org](https://headlesscms.org): A leaderboard of top open-source headless cms
+- [staticgen.com](https://staticgen.com): A leaderboard of top open-source static site generators
+- [phgeography](https://github.com/drfb/phgeograpy): A python package that lists regions, provinces, and cities/municipalities in the Philippines
 
 ## Learning Resources
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books
@@ -39,6 +41,16 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [The Impostors Handbook](https://bigmachine.io/products/the-imposters-handbook/): "I wrote this book to fill the gaps in my programming career. I'm a self-taught developer, and for most of my career, I've learned what was required to get the job done. When conversations veered toward core concepts, I disengaged. I decided to change all of this in 2014 and wrote a book about what I learned."
 - [Writing An Interpreter In Go](https://interpreterbook.com/): Writing An Interpreter In Go by Thorsten Ball
 - [Writing A Compiler in Go](https://compilerbook.com/): Writing A Compiler in Go by Thorsten Ball
+- [Idiomatic CSS](https://github.com/necolas/idiomatic-css): Principles of writing consistent, idiomatic CSS.
+- [Learn Git Branching](https://github.com/pcottle/learnGitBranching): An interactive git visualization to challenge and educate
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
+- [Mastering Modular Javascript](https://github.com/mjavascript/mastering-modular-javascript): Module thinking, principles, design patterns and best practices.
+- [Reverse Engineer for Beginners](https://github.com/DennisYurichev/RE-for-beginners): https://github.com/DennisYurichev/RE-for-beginners
+- [MDN Web Components Examples](https://github.com/mdn/web-components-examples): https://github.com/mdn/web-components-examples
+- [Google Microservices Demo](https://github.com/GoogleCloudPlatform/microservices-demo): Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
+- [Android Architecture](https://github.com/googlesamples/android-architecture): A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer
+- [Design Patterns in Typescript](https://github.com/torokmark/design_patterns_in_typescript): Design pattern implementations in TypeScript
 
 
 ## Admin Templates
