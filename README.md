@@ -1,5 +1,15 @@
 # awesome 🕶
-My awesome list, everyone has one 
+My awesome list, everyone has one. This is a collection of my personal favorites. My starred repos, bookmarks, notes, gists are starting to get out of hand 😂
+
+## Awesome List
+- [React Native](https://github.com/jondot/awesome-react-native)Awesome React Native components, news, tools, and learning material
+- [Opensource MacOS Apps](https://github.com/serhii-londar/open-source-mac-os-apps): Awesome list of open source applications for macOS.
+- [Shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+- [Flutter](https://github.com/Solido/awesome-flutter): An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+- [Podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts 
+- [DotNET Core](https://github.com/thangchung/awesome-dotnet-core): A collection of awesome .NET core libraries, tools, frameworks and software
+- [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools): The best design tools for everything.
+- []():
 
 ## Admin Templates
 - [tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
