@@ -74,6 +74,10 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Discourse](https://github.com/discourse/discourse): A platform for community discussion. Free, open, simple
 - [Orchard Core](https://github.com/OrchardCMS/OrchardCore): Orchard Core is an open-source modular and extensible application framework built with ASP.NET Core, and a content management system (CMS) built on top of that application framework
 - [SimplCommerce](https://github.com/simplcommerce/SimplCommerce): A simple, cross platform, modularized ecommerce system built on .NET Core
+- [microweber](https://github.com/microweber/microweber): Drag and Drop CMS and online shop
+- [PaperBack](https://github.com/art-drobanov/PaperBack): PaperBack is a free application that allows you to back up your precious files on the ordinary paper (http://ollydbg.de/Paperbak/).
+- [InvoiceNinja](https://github.com/invoiceninja/invoiceninja): Invoices, Expenses and Tasks built with Laravel and Flutter
+- [cubemania](https://github.com/timhabermaas/cubemania): keep track of your times, compare yourself with others
 
 ## Admin Templates
 - [tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
