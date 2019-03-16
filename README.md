@@ -37,7 +37,8 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript
 - [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines): High-level guidelines for writing manageable, maintainable CSS
 - [The Impostors Handbook](https://bigmachine.io/products/the-imposters-handbook/): "I wrote this book to fill the gaps in my programming career. I'm a self-taught developer, and for most of my career, I've learned what was required to get the job done. When conversations veered toward core concepts, I disengaged. I decided to change all of this in 2014 and wrote a book about what I learned."
-- 
+- [Writing An Interpreter In Go](https://interpreterbook.com/): Writing An Interpreter In Go by Thorsten Ball
+- [Writing A Compiler in Go](https://compilerbook.com/): Writing A Compiler in Go by Thorsten Ball
 
 
 ## Admin Templates
