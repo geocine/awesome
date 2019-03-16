@@ -24,7 +24,8 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [World / Country / State / City Database](https://github.com/baraskar/Worlds-Country-State-and-City-Mysql-Database): World / Country / State / City Database
 - [Phlippines Provinces & Cities](https://github.com/ojtibi/philippine-provinces-and-cities-sql): Simple drop-in SQL script containing the complete Philippine provinces and cities. Generated from MySQL using PHPMyAdmin.
 - [Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News
-
+- [Graphql Stack](https://github.com/steven-mercatante/graphql-stack): A visual explanation of how the various tools in the GraphQL ecosystem fit together
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API
 
 ## Learning Resources
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books
@@ -59,6 +60,17 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Porto](https://github.com/Mahmoudz/Porto): Porto is a Modern Software Architectural Pattern
 - [Design Patterns in PHP](https://github.com/domnikl/DesignPatternsPHP): sample code for several design patterns in PHP
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
+
+## Applications
+- [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Easy to get started sample reference microservice and container based applicatio
+- [AzuraCast](https://github.com/AzuraCast/AzuraCast): A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
+- [Gifski](https://github.com/sindresorhus/gifski-app): Convert videos to high-quality GIFs on your Mac
+- [Mastodon](https://github.com/tootsuite/mastodon): Your self-hosted, globally interconnected microblogging community
+- [Busrouter SG](https://github.com/cheeaun/busrouter-sg): BusRouter SG: Singapore Bus Routes Explorer 
+- [Alfred fkill](https://github.com/SamVerschueren/alfred-fkill): Alfred 3 workflow to fabulously search and kill processes
+- [Ting](https://github.com/Aufree/ting): A music social networking project written in Ruby on Rails and Semantic-UI
+- [Lepton](https://github.com/hackjutsu/Lepton): Democratizing Snippet Management (macOS/Win/Linux)
+- [Reaction](https://github.com/reactioncommerce/reaction): Reaction is a customizable, real-time reactive, JavaScript commerce platform.
 
 ## Admin Templates
 - [tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
