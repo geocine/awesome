@@ -15,6 +15,9 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Terminal Fonts](https://github.com/gabrielelana/awesome-terminal-fonts): Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [love2d](https://github.com/love2d-community/awesome-love2d): A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing): A curated list of resources around the topic: visual regression testing
+- [Android Architecture](https://github.com/googlesamples/android-architecture): A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- [API Development Tools](https://github.com/yosriady/api-development-tools): A collection of useful resources for building RESTful HTTP+JSON APIs.
+- [Portable Apps](https://github.com/portapps/portapps): Collection of portable apps for Windows
 
 ## Admin Templates
 - [tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
