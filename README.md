@@ -34,7 +34,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [PHP FIG](https://github.com/php-fig/fig-standards): Standards either proposed or approved by the Framework Interop Group
 - [locutus](https://github.com/kvz/locutus): All your standard libraries will be assimilated into our JavaScript collective. Resistance is futile.
 - [You Don't Need MomentJS](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
-- [Build Your Own X](https://github.com/danistefanovic/build-your-own-x): https://github.com/danistefanovic/build-your-own-x
+- [Build Your Own X](https://github.com/danistefanovic/build-your-own-x): Build your own (insert technology here)
 - [Build APIs You Won't Hate](https://github.com/apisyouwonthate/build-apis-you-wont-hate): Resources for the book: Building APIs You Won't Hate
 - [33 JS Concepts](https://github.com/leonardomso/33-js-concepts): 33 concepts every JavaScript developer should know. 
 - [CS Interview Knowledge Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map): Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
@@ -50,8 +50,8 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Learn Git Branching](https://github.com/pcottle/learnGitBranching): An interactive git visualization to challenge and educate
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
 - [Mastering Modular Javascript](https://github.com/mjavascript/mastering-modular-javascript): Module thinking, principles, design patterns and best practices.
-- [Reverse Engineer for Beginners](https://github.com/DennisYurichev/RE-for-beginners): https://github.com/DennisYurichev/RE-for-beginners
-- [MDN Web Components Examples](https://github.com/mdn/web-components-examples): https://github.com/mdn/web-components-examples
+- [Reverse Engineer for Beginners](https://github.com/DennisYurichev/RE-for-beginners): Reverse Engineering for Beginners books
+- [MDN Web Components Examples](https://github.com/mdn/web-components-examples): A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [Google Microservices Demo](https://github.com/GoogleCloudPlatform/microservices-demo): Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
 - [Android Architecture](https://github.com/googlesamples/android-architecture): A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer
