@@ -21,6 +21,10 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [headlesscms.org](https://headlesscms.org): A leaderboard of top open-source headless cms
 - [staticgen.com](https://staticgen.com): A leaderboard of top open-source static site generators
 - [phgeography](https://github.com/drfb/phgeograpy): A python package that lists regions, provinces, and cities/municipalities in the Philippines
+- [World / Country / State / City Database](https://github.com/baraskar/Worlds-Country-State-and-City-Mysql-Database): World / Country / State / City Database
+- [Phlippines Provinces & Cities](https://github.com/ojtibi/philippine-provinces-and-cities-sql): Simple drop-in SQL script containing the complete Philippine provinces and cities. Generated from MySQL using PHPMyAdmin.
+- [Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade): Tools of The Trade, from Hacker News
+
 
 ## Learning Resources
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books
@@ -51,7 +55,10 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Android Architecture](https://github.com/googlesamples/android-architecture): A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer
 - [Design Patterns in Typescript](https://github.com/torokmark/design_patterns_in_typescript): Design pattern implementations in TypeScript
-
+- [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook): Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
+- [Porto](https://github.com/Mahmoudz/Porto): Porto is a Modern Software Architectural Pattern
+- [Design Patterns in PHP](https://github.com/domnikl/DesignPatternsPHP): sample code for several design patterns in PHP
+- [idiomatic.js](https://github.com/rwaldron/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
 
 ## Admin Templates
 - [tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
