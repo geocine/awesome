@@ -40,7 +40,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [CS Interview Knowledge Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map): Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [Functional Light JS](https://github.com/getify/Functional-Light-JS): Pragmatic, balanced FP in JavaScript
 - [Frameworks Code Comparision](https://github.com/feimosi/frameworks-code-comparison): Code comparison of modern web frameworks, based on React, Angular and Vue.js
-- [Microsoft NodeJS Guidelines](https://github.com/Microsoft/nodejs-guidelines): https://github.com/Microsoft/nodejs-guidelines
+- [Microsoft NodeJS Guidelines](https://github.com/Microsoft/nodejs-guidelines): Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript
 - [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines): High-level guidelines for writing manageable, maintainable CSS
 - [The Impostors Handbook](https://bigmachine.io/products/the-imposters-handbook/): "I wrote this book to fill the gaps in my programming career. I'm a self-taught developer, and for most of my career, I've learned what was required to get the job done. When conversations veered toward core concepts, I disengaged. I decided to change all of this in 2014 and wrote a book about what I learned."
@@ -78,6 +78,13 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [PaperBack](https://github.com/art-drobanov/PaperBack): PaperBack is a free application that allows you to back up your precious files on the ordinary paper (http://ollydbg.de/Paperbak/).
 - [InvoiceNinja](https://github.com/invoiceninja/invoiceninja): Invoices, Expenses and Tasks built with Laravel and Flutter
 - [cubemania](https://github.com/timhabermaas/cubemania): keep track of your times, compare yourself with others
+
+## Design Systems / UI Toolkits
+- [Ant Design](https://github.com/ant-design/ant-design): A UI Design Language
+- [VMWare Clarity](https://github.com/vmware/clarity): UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
+- [Akveo Nebular](https://github.com/akveo/nebular): Angular 7 Components, Auth and Security
+- [Blaze](https://github.com/BlazeSoftware/blaze): Framework-free open source UI toolkit
+- [SkyUX2](https://github.com/blackbaud/skyux2): SKY UX 2 is the new version of Blackbaud’s user experience framework that implements Blackbaud design patterns
 
 ## Admin Templates
 - [tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
