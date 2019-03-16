@@ -71,6 +71,9 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Ting](https://github.com/Aufree/ting): A music social networking project written in Ruby on Rails and Semantic-UI
 - [Lepton](https://github.com/hackjutsu/Lepton): Democratizing Snippet Management (macOS/Win/Linux)
 - [Reaction](https://github.com/reactioncommerce/reaction): Reaction is a customizable, real-time reactive, JavaScript commerce platform.
+- [Discourse](https://github.com/discourse/discourse): A platform for community discussion. Free, open, simple
+- [Orchard Core](https://github.com/OrchardCMS/OrchardCore): Orchard Core is an open-source modular and extensible application framework built with ASP.NET Core, and a content management system (CMS) built on top of that application framework
+- [SimplCommerce](https://github.com/simplcommerce/SimplCommerce): A simple, cross platform, modularized ecommerce system built on .NET Core
 
 ## Admin Templates
 - [tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
