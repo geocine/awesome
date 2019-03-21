@@ -61,6 +61,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Design Patterns in PHP](https://github.com/domnikl/DesignPatternsPHP): sample code for several design patterns in PHP
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
 - [minipack](https://github.com/ronami/minipack): A simplified example of a modern module bundler written in JavaScript
+- [Secrets of the JavaScript Ninja, Second Edition](https://www.manning.com/books//secrets-of-the-javascript-ninja-second-edition): John Resig, Bear Bibeault, and Josip Maras
 
 ## Applications
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Easy to get started sample reference microservice and container based applicatio
