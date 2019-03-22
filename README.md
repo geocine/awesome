@@ -28,30 +28,41 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API
 
 ## Learning Resources
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books
-- [NodeJS Best Practices](https://github.com/i0natan/nodebestpractices): The largest Node.js best practices list
+### Standards / Best Practices
 - [PHP The Right Way](https://github.com/codeguy/php-the-right-way): An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [PHP FIG](https://github.com/php-fig/fig-standards): Standards either proposed or approved by the Framework Interop Group
+- [NodeJS Best Practices](https://github.com/i0natan/nodebestpractices): The largest Node.js best practices list
+- [Idiomatic CSS](https://github.com/necolas/idiomatic-css): Principles of writing consistent, idiomatic CSS.
+- [idiomatic.js](https://github.com/rwaldron/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
+- [Microsoft NodeJS Guidelines](https://github.com/Microsoft/nodejs-guidelines): Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.
+- [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines): High-level guidelines for writing manageable, maintainable CSS
+
+### References
+- [Frameworks Code Comparision](https://github.com/feimosi/frameworks-code-comparison): Code comparison of modern web frameworks, based on React, Angular and Vue.js
 - [locutus](https://github.com/kvz/locutus): All your standard libraries will be assimilated into our JavaScript collective. Resistance is futile.
+- [MDN Web Components Examples](https://github.com/mdn/web-components-examples): A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
+
+### JavaScript
+- [Functional Light JS](https://github.com/getify/Functional-Light-JS): Pragmatic, balanced FP in JavaScript
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript
+- [33 JS Concepts](https://github.com/leonardomso/33-js-concepts): 33 concepts every JavaScript developer should know. 
+- [Mastering Modular Javascript](https://github.com/mjavascript/mastering-modular-javascript): Module thinking, principles, design patterns and best practices.
+- [Secrets of the JavaScript Ninja, Second Edition](https://www.manning.com/books//secrets-of-the-javascript-ninja-second-edition): John Resig, Bear Bibeault, and Josip Maras
+
+### Compilers / Reverse Engineering / Computer Science
+- [Writing An Interpreter In Go](https://interpreterbook.com/): Writing An Interpreter In Go by Thorsten Ball
+- [Writing A Compiler in Go](https://compilerbook.com/): Writing A Compiler in Go by Thorsten Ball
+- [Reverse Engineer for Beginners](https://github.com/DennisYurichev/RE-for-beginners): Reverse Engineering for Beginners books
+- [The Impostors Handbook](https://bigmachine.io/products/the-imposters-handbook/): "I wrote this book to fill the gaps in my programming career. I'm a self-taught developer, and for most of my career, I've learned what was required to get the job done. When conversations veered toward core concepts, I disengaged. I decided to change all of this in 2014 and wrote a book about what I learned."
+
+### General
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books
 - [You Don't Need MomentJS](https://github.com/you-dont-need/You-Dont-Need-Momentjs): List of functions which you can use to replace moment.js + ESLint Plugin
 - [Build Your Own X](https://github.com/danistefanovic/build-your-own-x): Build your own (insert technology here)
 - [Build APIs You Won't Hate](https://github.com/apisyouwonthate/build-apis-you-wont-hate): Resources for the book: Building APIs You Won't Hate
-- [33 JS Concepts](https://github.com/leonardomso/33-js-concepts): 33 concepts every JavaScript developer should know. 
 - [CS Interview Knowledge Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map): Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-- [Functional Light JS](https://github.com/getify/Functional-Light-JS): Pragmatic, balanced FP in JavaScript
-- [Frameworks Code Comparision](https://github.com/feimosi/frameworks-code-comparison): Code comparison of modern web frameworks, based on React, Angular and Vue.js
-- [Microsoft NodeJS Guidelines](https://github.com/Microsoft/nodejs-guidelines): Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript
-- [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines): High-level guidelines for writing manageable, maintainable CSS
-- [The Impostors Handbook](https://bigmachine.io/products/the-imposters-handbook/): "I wrote this book to fill the gaps in my programming career. I'm a self-taught developer, and for most of my career, I've learned what was required to get the job done. When conversations veered toward core concepts, I disengaged. I decided to change all of this in 2014 and wrote a book about what I learned."
-- [Writing An Interpreter In Go](https://interpreterbook.com/): Writing An Interpreter In Go by Thorsten Ball
-- [Writing A Compiler in Go](https://compilerbook.com/): Writing A Compiler in Go by Thorsten Ball
-- [Idiomatic CSS](https://github.com/necolas/idiomatic-css): Principles of writing consistent, idiomatic CSS.
 - [Learn Git Branching](https://github.com/pcottle/learnGitBranching): An interactive git visualization to challenge and educate
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules): Flight rules for git
-- [Mastering Modular Javascript](https://github.com/mjavascript/mastering-modular-javascript): Module thinking, principles, design patterns and best practices.
-- [Reverse Engineer for Beginners](https://github.com/DennisYurichev/RE-for-beginners): Reverse Engineering for Beginners books
-- [MDN Web Components Examples](https://github.com/mdn/web-components-examples): A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [Google Microservices Demo](https://github.com/GoogleCloudPlatform/microservices-demo): Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
 - [Android Architecture](https://github.com/googlesamples/android-architecture): A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer
@@ -59,9 +70,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook): Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [Porto](https://github.com/Mahmoudz/Porto): Porto is a Modern Software Architectural Pattern
 - [Design Patterns in PHP](https://github.com/domnikl/DesignPatternsPHP): sample code for several design patterns in PHP
-- [idiomatic.js](https://github.com/rwaldron/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
 - [minipack](https://github.com/ronami/minipack): A simplified example of a modern module bundler written in JavaScript
-- [Secrets of the JavaScript Ninja, Second Edition](https://www.manning.com/books//secrets-of-the-javascript-ninja-second-edition): John Resig, Bear Bibeault, and Josip Maras
 
 ## Applications
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Easy to get started sample reference microservice and container based applicatio
@@ -89,10 +98,11 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Akveo Nebular](https://github.com/akveo/nebular): Angular 7 Components, Auth and Security
 - [Blaze](https://github.com/BlazeSoftware/blaze): Framework-free open source UI toolkit
 
-## Games Tools
+## Games Tools / Game Development
 - [Craft](https://github.com/fogleman/Craft): A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [Terraria Map Editor](https://github.com/TEdit/Terraria-Map-Editor): TEdit is a stand alone, open source map editor for Terraria.
 - [MercuryTrade](https://github.com/Exslims/MercuryTrade): An overlay application for Path of Exile(Tracking, Trading, Chat, etc)
+- [love2d](https://love2d.org/): LÖVE is an awesome framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android, and iOS.
 
 ## Admin Templates
 - [tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
