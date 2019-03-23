@@ -42,6 +42,10 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [locutus](https://github.com/kvz/locutus): All your standard libraries will be assimilated into our JavaScript collective. Resistance is futile.
 - [MDN Web Components Examples](https://github.com/mdn/web-components-examples): A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 
+### UI / Design
+- [Atomic Design](http://atomicdesign.bradfrost.com/): by Brad Frost, Atomic Design details all that goes into creating and maintaining robust design systems, allowing you to roll out higher quality, more consistent UIs faster than ever before
+- [Refactoring UI](https://refactoringui.com/book/): by Adam Wathan & Steve Schoger, Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
+
 ### JavaScript
 - [Functional Light JS](https://github.com/getify/Functional-Light-JS): Pragmatic, balanced FP in JavaScript
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript
