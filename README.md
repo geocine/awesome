@@ -75,6 +75,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Porto](https://github.com/Mahmoudz/Porto): Porto is a Modern Software Architectural Pattern
 - [Design Patterns in PHP](https://github.com/domnikl/DesignPatternsPHP): sample code for several design patterns in PHP
 - [minipack](https://github.com/ronami/minipack): A simplified example of a modern module bundler written in JavaScript
+- [C# In Depth, 4th Edition](https://www.manning.com/books/c-sharp-in-depth-fourth-edition): by Jon Skeet. C# in Depth, Fourth Edition is your key to unlocking the powerful new features added to the language in C# 5, 6, and 7
 
 ## Applications
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Easy to get started sample reference microservice and container based applicatio
