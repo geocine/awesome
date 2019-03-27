@@ -102,6 +102,8 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [VMWare Clarity](https://github.com/vmware/clarity): UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences
 - [Akveo Nebular](https://github.com/akveo/nebular): Angular 7 Components, Auth and Security
 - [Blaze](https://github.com/BlazeSoftware/blaze): Framework-free open source UI toolkit
+- [Vibe](https://github.com/NiceDash/Vibe): A beautiful react.js dashboard build with Bootstrap 4
+- [thumbprint](https://github.com/thumbtack/thumbprint): Thumbprint is the design system at Thumbtack
 
 ## Games Tools / Game Development
 - [Craft](https://github.com/fogleman/Craft): A simple Minecraft clone written in C using modern OpenGL (shaders).
