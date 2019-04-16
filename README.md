@@ -44,7 +44,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 
 ### UI / Design
 - [Atomic Design](http://atomicdesign.bradfrost.com/): by Brad Frost, Atomic Design details all that goes into creating and maintaining robust design systems, allowing you to roll out higher quality, more consistent UIs faster than ever before
-- [UI](https://refactoringui.com/book/): by Adam Wathan & Steve Schoger, Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
+- [Refactoring UI](https://refactoringui.com/book/): by Adam Wathan & Steve Schoger, Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
 - [CSS Visual Dictionary](http://www.javascriptteacher.com/free-book.html) - A visual approach to learning CSS by Greg Sidelnikov
 
 ### JavaScript
