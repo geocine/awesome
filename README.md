@@ -44,7 +44,8 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 
 ### UI / Design
 - [Atomic Design](http://atomicdesign.bradfrost.com/): by Brad Frost, Atomic Design details all that goes into creating and maintaining robust design systems, allowing you to roll out higher quality, more consistent UIs faster than ever before
-- [Refactoring UI](https://refactoringui.com/book/): by Adam Wathan & Steve Schoger, Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
+- [UI](https://refactoringui.com/book/): by Adam Wathan & Steve Schoger, Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.
+- [CSS Visual Dictionary](http://www.javascriptteacher.com/free-book.html) - A visual approach to learning CSS by Greg Sidelnikov
 
 ### JavaScript
 - [Functional Light JS](https://github.com/getify/Functional-Light-JS): Pragmatic, balanced FP in JavaScript
@@ -58,6 +59,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Writing A Compiler in Go](https://compilerbook.com/): Writing A Compiler in Go by Thorsten Ball
 - [Reverse Engineer for Beginners](https://github.com/DennisYurichev/RE-for-beginners): Reverse Engineering for Beginners books
 - [The Impostors Handbook](https://bigmachine.io/products/the-imposters-handbook/): "I wrote this book to fill the gaps in my programming career. I'm a self-taught developer, and for most of my career, I've learned what was required to get the job done. When conversations veered toward core concepts, I disengaged. I decided to change all of this in 2014 and wrote a book about what I learned."
+- [JavaScript Grammar](http://www.javascriptgrammar.com/) Learn JavaScript w/ Greg Sidelnikov's Visual Approach
 
 ### General
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books): Freely available programming books
