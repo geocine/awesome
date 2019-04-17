@@ -106,6 +106,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Blaze](https://github.com/BlazeSoftware/blaze): Framework-free open source UI toolkit
 - [Vibe](https://github.com/NiceDash/Vibe): A beautiful react.js dashboard build with Bootstrap 4
 - [thumbprint](https://github.com/thumbtack/thumbprint): Thumbprint is the design system at Thumbtack
+- [Elastic UI Framework](https://elastic.github.io/eui): A design library in use at Elastic to build internal products that need to share our aesthetics
 
 ## Games Tools / Game Development
 - [Craft](https://github.com/fogleman/Craft): A simple Minecraft clone written in C using modern OpenGL (shaders).
