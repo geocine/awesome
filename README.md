@@ -78,6 +78,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Design Patterns in PHP](https://github.com/domnikl/DesignPatternsPHP): sample code for several design patterns in PHP
 - [minipack](https://github.com/ronami/minipack): A simplified example of a modern module bundler written in JavaScript
 - [C# In Depth, 4th Edition](https://www.manning.com/books/c-sharp-in-depth-fourth-edition): by Jon Skeet. C# in Depth, Fourth Edition is your key to unlocking the powerful new features added to the language in C# 5, 6, and 7
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/): You can give yourself a world-class CS education without investing years and a small fortune in a degree program
 
 ## Applications
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers): Easy to get started sample reference microservice and container based applicatio
@@ -113,6 +114,7 @@ My awesome list, everyone has one. This is a collection of my personal favorites
 - [Terraria Map Editor](https://github.com/TEdit/Terraria-Map-Editor): TEdit is a stand alone, open source map editor for Terraria.
 - [MercuryTrade](https://github.com/Exslims/MercuryTrade): An overlay application for Path of Exile(Tracking, Trading, Chat, etc)
 - [love2d](https://love2d.org/): LÖVE is an awesome framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android, and iOS.
+- [Game Programming Patterns](https://www.gameprogrammingpatterns.com/): by Robert Nystrom, Game Programming Patterns is a collection of patterns found in games that make code cleaner, easier to understand, and faster
 
 ## Admin Templates
 - [tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
