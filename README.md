@@ -2,9 +2,9 @@
 
 My awesome list, everyone has one. Every repository I have starred on GitHub, sorted into categories with a short description of each.
 
-1,382 items, grouped by my [GitHub star lists](https://github.com/geocine?tab=stars) and then by language. Each item appears once, under its most specific category. "Archive" holds things I starred or bookmarked before and later unstarred. "read-only" marks repos archived by their owners.
+1,382 items in 10 categories, then grouped by language. Each item appears once, under its most specific category. "Archive" holds older bookmarks I kept from before. "read-only" marks repos archived by their owners.
 
-The [site version](site) is searchable and shows every category an item belongs to. Last updated 2026-11-22.
+**Browse and search it at [geocine-awesome.netlify.app](https://geocine-awesome.netlify.app/)**, where each item shows every category it belongs to. Last updated 2026-11-22.
 
 ## Contents
 

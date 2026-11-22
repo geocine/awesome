@@ -47,13 +47,13 @@ out.push(
 );
 out.push('');
 out.push(
-  `${(data.stars.length + archive.length).toLocaleString('en-US')} items, grouped by my [GitHub star lists](https://github.com/${data.user}?tab=stars) and then by language. ` +
-    'Each item appears once, under its most specific category. "Archive" holds things I starred or bookmarked before and later unstarred. ' +
+  `${(data.stars.length + archive.length).toLocaleString('en-US')} items in ${used.length} categories, then grouped by language. ` +
+    'Each item appears once, under its most specific category. "Archive" holds older bookmarks I kept from before. ' +
     '"read-only" marks repos archived by their owners.',
 );
 out.push('');
 out.push(
-  `The [site version](site) is searchable and shows every category an item belongs to. Last updated ${data.generatedAt.slice(0, 10)}.`,
+  `**Browse and search it at [geocine-awesome.netlify.app](https://geocine-awesome.netlify.app/)**, where each item shows every category it belongs to. Last updated ${data.generatedAt.slice(0, 10)}.`,
 );
 out.push('');
 out.push('## Contents');

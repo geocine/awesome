@@ -1,6 +1,6 @@
 # Stars site
 
-A searchable React (Vite) site showing every repo in [`../data/stars.json`](../data/stars.json).
+Live at https://geocine-awesome.netlify.app/. A searchable React (Vite) site showing every repo in [`../data/stars.json`](../data/stars.json).
 
 ```sh
 npm install
