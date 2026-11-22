@@ -1,0 +1,596 @@
+[
+  {
+    "title": "React Native",
+    "url": "https://github.com/jondot/awesome-react-native",
+    "description": "Awesome React Native components, news, tools, and learning material",
+    "list": "mobile-development"
+  },
+  {
+    "title": "Opensource MacOS Apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "description": "Awesome list of open source applications for macOS.",
+    "list": "desktop-development"
+  },
+  {
+    "title": "Shell",
+    "url": "https://github.com/alebcay/awesome-shell",
+    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos.",
+    "list": "developer-tools"
+  },
+  {
+    "title": "Flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "list": "mobile-development"
+  },
+  {
+    "title": "Podcasts",
+    "url": "https://github.com/rShetty/awesome-podcasts",
+    "description": "Collection of awesome podcasts",
+    "list": "others"
+  },
+  {
+    "title": "DotNET Core",
+    "url": "https://github.com/thangchung/awesome-dotnet-core",
+    "description": "A collection of awesome .NET core libraries, tools, frameworks and software",
+    "list": "backend-development"
+  },
+  {
+    "title": "Design Tools",
+    "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+    "description": "The best design tools for everything.",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Domain Driven Design",
+    "url": "https://github.com/heynickc/awesome-ddd",
+    "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
+    "list": "backend-development"
+  },
+  {
+    "title": "Angular Components",
+    "url": "https://github.com/brillout/awesome-angular-components",
+    "description": "Catalog of Angular 2+ Components & Libraries",
+    "list": "frontend-development"
+  },
+  {
+    "title": "AngularJS",
+    "url": "https://github.com/gianarb/awesome-angularjs",
+    "description": "A list of awesome AngularJs services, directives, utilities and resources.",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Terminal Fonts",
+    "url": "https://github.com/gabrielelana/awesome-terminal-fonts",
+    "description": "Tools and instructions on how to have awesome symbols in a terminal with a monospace font",
+    "list": "developer-tools"
+  },
+  {
+    "title": "love2d",
+    "url": "https://github.com/love2d-community/awesome-love2d",
+    "description": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
+    "list": "game-development"
+  },
+  {
+    "title": "Visual Regression Testing",
+    "url": "https://github.com/mojoaxel/awesome-regression-testing",
+    "description": "A curated list of resources around the topic: visual regression testing",
+    "list": "developer-tools"
+  },
+  {
+    "title": "API Development Tools",
+    "url": "https://github.com/yosriady/api-development-tools",
+    "description": "A collection of useful resources for building RESTful HTTP+JSON APIs.",
+    "list": "backend-development"
+  },
+  {
+    "title": "Portable Apps",
+    "url": "https://github.com/portapps/portapps",
+    "description": "Collection of portable apps for Windows",
+    "list": "others"
+  },
+  {
+    "title": "The Remote Freelancer",
+    "url": "https://github.com/engineerapart/TheRemoteFreelancer",
+    "description": "Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more",
+    "list": "others"
+  },
+  {
+    "title": "headlesscms.org",
+    "url": "https://headlesscms.org",
+    "description": "A leaderboard of top open-source headless cms",
+    "list": "backend-development"
+  },
+  {
+    "title": "staticgen.com",
+    "url": "https://staticgen.com",
+    "description": "A leaderboard of top open-source static site generators",
+    "list": "frontend-development"
+  },
+  {
+    "title": "phgeography",
+    "url": "https://github.com/drfb/phgeograpy",
+    "description": "A python package that lists regions, provinces, and cities/municipalities in the Philippines",
+    "list": "backend-development"
+  },
+  {
+    "title": "World / Country / State / City Database",
+    "url": "https://github.com/baraskar/Worlds-Country-State-and-City-Mysql-Database",
+    "description": "World / Country / State / City Database",
+    "list": "backend-development"
+  },
+  {
+    "title": "Phlippines Provinces & Cities",
+    "url": "https://github.com/ojtibi/philippine-provinces-and-cities-sql",
+    "description": "Simple drop-in SQL script containing the complete Philippine provinces and cities. Generated from MySQL using PHPMyAdmin.",
+    "list": "backend-development"
+  },
+  {
+    "title": "Tools of The Trade",
+    "url": "https://github.com/cjbarber/ToolsOfTheTrade",
+    "description": "Tools of The Trade, from Hacker News",
+    "list": "developer-tools"
+  },
+  {
+    "title": "Graphql Stack",
+    "url": "https://github.com/steven-mercatante/graphql-stack",
+    "description": "A visual explanation of how the various tools in the GraphQL ecosystem fit together",
+    "list": "backend-development"
+  },
+  {
+    "title": "API Security Checklist",
+    "url": "https://github.com/shieldfy/API-Security-Checklist",
+    "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+    "list": "backend-development"
+  },
+  {
+    "title": "PHP The Right Way",
+    "url": "https://github.com/codeguy/php-the-right-way",
+    "description": "An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web",
+    "list": "backend-development"
+  },
+  {
+    "title": "PHP FIG",
+    "url": "https://github.com/php-fig/fig-standards",
+    "description": "Standards either proposed or approved by the Framework Interop Group",
+    "list": "backend-development"
+  },
+  {
+    "title": "NodeJS Best Practices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "description": "The largest Node.js best practices list",
+    "list": "backend-development"
+  },
+  {
+    "title": "Idiomatic CSS",
+    "url": "https://github.com/necolas/idiomatic-css",
+    "description": "Principles of writing consistent, idiomatic CSS.",
+    "list": "frontend-development"
+  },
+  {
+    "title": "idiomatic.js",
+    "url": "https://github.com/rwaldron/idiomatic.js",
+    "description": "Principles of Writing Consistent, Idiomatic JavaScript",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Microsoft NodeJS Guidelines",
+    "url": "https://github.com/Microsoft/nodejs-guidelines",
+    "description": "Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.",
+    "list": "backend-development"
+  },
+  {
+    "title": "CSS Guidelines",
+    "url": "https://github.com/csswizardry/CSS-Guidelines",
+    "description": "High-level guidelines for writing manageable, maintainable CSS",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Frameworks Code Comparision",
+    "url": "https://github.com/feimosi/frameworks-code-comparison",
+    "description": "Code comparison of modern web frameworks, based on React, Angular and Vue.js",
+    "list": "frontend-development"
+  },
+  {
+    "title": "locutus",
+    "url": "https://github.com/kvz/locutus",
+    "description": "All your standard libraries will be assimilated into our JavaScript collective. Resistance is futile.",
+    "list": "general-programming"
+  },
+  {
+    "title": "MDN Web Components Examples",
+    "url": "https://github.com/mdn/web-components-examples",
+    "description": "A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Atomic Design",
+    "url": "http://atomicdesign.bradfrost.com/",
+    "description": "By Brad Frost, Atomic Design details all that goes into creating and maintaining robust design systems, allowing you to roll out higher quality, more consistent UIs faster than ever before",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Refactoring UI",
+    "url": "https://refactoringui.com/book/",
+    "description": "By Adam Wathan & Steve Schoger, Learn how to design beautiful user interfaces by yourself using specific tactics explained from a developer's point-of-view.",
+    "list": "frontend-development"
+  },
+  {
+    "title": "CSS Visual Dictionary",
+    "url": "http://www.javascriptteacher.com/free-book.html",
+    "description": "A visual approach to learning CSS by Greg Sidelnikov",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Functional Light JS",
+    "url": "https://github.com/getify/Functional-Light-JS",
+    "description": "Pragmatic, balanced FP in JavaScript",
+    "list": "general-programming"
+  },
+  {
+    "title": "You Don't Know JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript",
+    "list": "general-programming"
+  },
+  {
+    "title": "33 JS Concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "33 concepts every JavaScript developer should know.",
+    "list": "general-programming"
+  },
+  {
+    "title": "Mastering Modular Javascript",
+    "url": "https://github.com/mjavascript/mastering-modular-javascript",
+    "description": "Module thinking, principles, design patterns and best practices.",
+    "list": "general-programming"
+  },
+  {
+    "title": "Secrets of the JavaScript Ninja, Second Edition",
+    "url": "https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition",
+    "description": "John Resig, Bear Bibeault, and Josip Maras",
+    "list": "general-programming"
+  },
+  {
+    "title": "Writing An Interpreter In Go",
+    "url": "https://interpreterbook.com/",
+    "description": "Writing An Interpreter In Go by Thorsten Ball",
+    "list": "general-programming"
+  },
+  {
+    "title": "Writing A Compiler in Go",
+    "url": "https://compilerbook.com/",
+    "description": "Writing A Compiler in Go by Thorsten Ball",
+    "list": "general-programming"
+  },
+  {
+    "title": "Reverse Engineer for Beginners",
+    "url": "https://github.com/DennisYurichev/RE-for-beginners",
+    "description": "Reverse Engineering for Beginners books",
+    "list": "reverse-engineering"
+  },
+  {
+    "title": "The Impostors Handbook",
+    "url": "https://bigmachine.io/products/the-imposters-handbook/",
+    "description": "\"I wrote this book to fill the gaps in my programming career. I'm a self-taught developer, and for most of my career, I've learned what was required to get the job done. When conversations veered toward core concepts, I disengaged. I decided to change all of this in 2014 and wrote a book about what I learned.\"",
+    "list": "general-programming"
+  },
+  {
+    "title": "JavaScript Grammar",
+    "url": "http://www.javascriptgrammar.com/",
+    "description": "Learn JavaScript w/ Greg Sidelnikov's Visual Approach",
+    "list": "general-programming"
+  },
+  {
+    "title": "Free Programming Books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "Freely available programming books",
+    "list": "general-programming"
+  },
+  {
+    "title": "You Don't Need MomentJS",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-Momentjs",
+    "description": "List of functions which you can use to replace moment.js + ESLint Plugin",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Build Your Own X",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "Build your own (insert technology here)",
+    "list": "general-programming"
+  },
+  {
+    "title": "Build APIs You Won't Hate",
+    "url": "https://github.com/apisyouwonthate/build-apis-you-wont-hate",
+    "description": "Resources for the book: Building APIs You Won't Hate",
+    "list": "backend-development"
+  },
+  {
+    "title": "CS Interview Knowledge Map",
+    "url": "https://github.com/InterviewMap/CS-Interview-Knowledge-Map",
+    "description": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.",
+    "list": "general-programming"
+  },
+  {
+    "title": "Learn Git Branching",
+    "url": "https://github.com/pcottle/learnGitBranching",
+    "description": "An interactive git visualization to challenge and educate",
+    "list": "developer-tools"
+  },
+  {
+    "title": "Git Flight Rules",
+    "url": "https://github.com/k88hudson/git-flight-rules",
+    "description": "Flight rules for git",
+    "list": "developer-tools"
+  },
+  {
+    "title": "Google Microservices Demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "description": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.",
+    "list": "backend-development"
+  },
+  {
+    "title": "Android Architecture",
+    "url": "https://github.com/googlesamples/android-architecture",
+    "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+    "list": "mobile-development"
+  },
+  {
+    "title": "Developer Roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer",
+    "list": "general-programming"
+  },
+  {
+    "title": "Design Patterns in Typescript",
+    "url": "https://github.com/torokmark/design_patterns_in_typescript",
+    "description": "Design pattern implementations in TypeScript",
+    "list": "general-programming"
+  },
+  {
+    "title": "Bitcoin Book",
+    "url": "https://github.com/bitcoinbook/bitcoinbook",
+    "description": "Mastering Bitcoin 2nd Edition - Programming the Open Blockchain",
+    "list": "others"
+  },
+  {
+    "title": "Porto",
+    "url": "https://github.com/Mahmoudz/Porto",
+    "description": "Porto is a Modern Software Architectural Pattern",
+    "list": "backend-development"
+  },
+  {
+    "title": "Design Patterns in PHP",
+    "url": "https://github.com/domnikl/DesignPatternsPHP",
+    "description": "sample code for several design patterns in PHP",
+    "list": "backend-development"
+  },
+  {
+    "title": "minipack",
+    "url": "https://github.com/ronami/minipack",
+    "description": "A simplified example of a modern module bundler written in JavaScript",
+    "list": "frontend-development"
+  },
+  {
+    "title": "C# In Depth, 4th Edition",
+    "url": "https://www.manning.com/books/c-sharp-in-depth-fourth-edition",
+    "description": "By Jon Skeet. C# in Depth, Fourth Edition is your key to unlocking the powerful new features added to the language in C# 5, 6, and 7",
+    "list": "general-programming"
+  },
+  {
+    "title": "Teach Yourself Computer Science",
+    "url": "https://teachyourselfcs.com/",
+    "description": "You can give yourself a world-class CS education without investing years and a small fortune in a degree program",
+    "list": "general-programming"
+  },
+  {
+    "title": "eShopOnContainers",
+    "url": "https://github.com/dotnet-architecture/eShopOnContainers",
+    "description": "Easy to get started sample reference microservice and container based applicatio",
+    "list": "backend-development"
+  },
+  {
+    "title": "AzuraCast",
+    "url": "https://github.com/AzuraCast/AzuraCast",
+    "description": "A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.",
+    "list": "others"
+  },
+  {
+    "title": "Gifski",
+    "url": "https://github.com/sindresorhus/gifski-app",
+    "description": "Convert videos to high-quality GIFs on your Mac",
+    "list": "desktop-development"
+  },
+  {
+    "title": "Mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "list": "others"
+  },
+  {
+    "title": "Busrouter SG",
+    "url": "https://github.com/cheeaun/busrouter-sg",
+    "description": "BusRouter SG: Singapore Bus Routes Explorer",
+    "list": "others"
+  },
+  {
+    "title": "Alfred fkill",
+    "url": "https://github.com/SamVerschueren/alfred-fkill",
+    "description": "Alfred 3 workflow to fabulously search and kill processes",
+    "list": "developer-tools"
+  },
+  {
+    "title": "Ting",
+    "url": "https://github.com/Aufree/ting",
+    "description": "A music social networking project written in Ruby on Rails and Semantic-UI",
+    "list": "backend-development"
+  },
+  {
+    "title": "Lepton",
+    "url": "https://github.com/hackjutsu/Lepton",
+    "description": "Democratizing Snippet Management (macOS/Win/Linux)",
+    "list": "desktop-development"
+  },
+  {
+    "title": "Reaction",
+    "url": "https://github.com/reactioncommerce/reaction",
+    "description": "Reaction is a customizable, real-time reactive, JavaScript commerce platform.",
+    "list": "backend-development"
+  },
+  {
+    "title": "Discourse",
+    "url": "https://github.com/discourse/discourse",
+    "description": "A platform for community discussion. Free, open, simple",
+    "list": "others"
+  },
+  {
+    "title": "Orchard Core",
+    "url": "https://github.com/OrchardCMS/OrchardCore",
+    "description": "Orchard Core is an open-source modular and extensible application framework built with ASP.NET Core, and a content management system (CMS) built on top of that application framework",
+    "list": "backend-development"
+  },
+  {
+    "title": "SimplCommerce",
+    "url": "https://github.com/simplcommerce/SimplCommerce",
+    "description": "A simple, cross platform, modularized ecommerce system built on .NET Core",
+    "list": "backend-development"
+  },
+  {
+    "title": "microweber",
+    "url": "https://github.com/microweber/microweber",
+    "description": "Drag and Drop CMS and online shop",
+    "list": "backend-development"
+  },
+  {
+    "title": "PaperBack",
+    "url": "https://github.com/art-drobanov/PaperBack",
+    "description": "PaperBack is a free application that allows you to back up your precious files on the ordinary paper (http://ollydbg.de/Paperbak/).",
+    "list": "desktop-development"
+  },
+  {
+    "title": "InvoiceNinja",
+    "url": "https://github.com/invoiceninja/invoiceninja",
+    "description": "Invoices, Expenses and Tasks built with Laravel and Flutter",
+    "list": "others"
+  },
+  {
+    "title": "cubemania",
+    "url": "https://github.com/timhabermaas/cubemania",
+    "description": "keep track of your times, compare yourself with others",
+    "list": "others"
+  },
+  {
+    "title": "musilcube",
+    "url": "https://github.com/clangen/musikcube",
+    "description": "a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++",
+    "list": "desktop-development"
+  },
+  {
+    "title": "FastHub",
+    "url": "https://github.com/k0shk0sh/FastHub",
+    "description": "FastHub the ultimate GitHub client for Android.",
+    "list": "mobile-development"
+  },
+  {
+    "title": "Ant Design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": "A UI Design Language",
+    "list": "frontend-development"
+  },
+  {
+    "title": "VMWare Clarity",
+    "url": "https://github.com/vmware/clarity",
+    "description": "UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Akveo Nebular",
+    "url": "https://github.com/akveo/nebular",
+    "description": "Angular 7 Components, Auth and Security",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Blaze",
+    "url": "https://github.com/BlazeSoftware/blaze",
+    "description": "Framework-free open source UI toolkit",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Vibe",
+    "url": "https://github.com/NiceDash/Vibe",
+    "description": "A beautiful react.js dashboard build with Bootstrap 4",
+    "list": "frontend-development"
+  },
+  {
+    "title": "thumbprint",
+    "url": "https://github.com/thumbtack/thumbprint",
+    "description": "Thumbprint is the design system at Thumbtack",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Elastic UI Framework",
+    "url": "https://elastic.github.io/eui",
+    "description": "A design library in use at Elastic to build internal products that need to share our aesthetics",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Craft",
+    "url": "https://github.com/fogleman/Craft",
+    "description": "A simple Minecraft clone written in C using modern OpenGL (shaders).",
+    "list": "game-development"
+  },
+  {
+    "title": "Terraria Map Editor",
+    "url": "https://github.com/TEdit/Terraria-Map-Editor",
+    "description": "TEdit is a stand alone, open source map editor for Terraria.",
+    "list": "game-development"
+  },
+  {
+    "title": "MercuryTrade",
+    "url": "https://github.com/Exslims/MercuryTrade",
+    "description": "An overlay application for Path of Exile(Tracking, Trading, Chat, etc)",
+    "list": "game-development"
+  },
+  {
+    "title": "love2d",
+    "url": "https://love2d.org/",
+    "description": "LÖVE is an awesome framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android, and iOS.",
+    "list": "game-development"
+  },
+  {
+    "title": "Game Programming Patterns",
+    "url": "https://www.gameprogrammingpatterns.com/",
+    "description": "By Robert Nystrom, Game Programming Patterns is a collection of patterns found in games that make code cleaner, easier to understand, and faster",
+    "list": "game-development"
+  },
+  {
+    "title": "tabler",
+    "url": "https://github.com/tabler/tabler",
+    "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4",
+    "list": "frontend-development"
+  },
+  {
+    "title": "Material Dashboard",
+    "url": "https://github.com/creativetimofficial/material-dashboard",
+    "description": "Open Source Bootstrap 4 Material Design Admin",
+    "list": "frontend-development"
+  },
+  {
+    "title": "ModularAdmin",
+    "url": "https://github.com/modularcode/modular-admin-html",
+    "description": "Free Dashboard Theme Built On Bootstrap 4",
+    "list": "frontend-development"
+  },
+  {
+    "title": "AdminLTE",
+    "url": "https://github.com/almasaeed2010/AdminLTE",
+    "description": "Free Premium Admin control Panel Theme Based On Bootstrap 3.x",
+    "list": "frontend-development"
+  },
+  {
+    "title": "ngx-admin",
+    "url": "https://github.com/letslearnangular/ngx-admin",
+    "description": "Admin dashboard template based on Angular 7+, Bootstrap 4 (previously known as ng2-admin)",
+    "list": "frontend-development"
+  }
+]
