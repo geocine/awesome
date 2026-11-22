@@ -206,26 +206,13 @@ export default function App() {
   const visible = filtered.slice(0, limit);
   const grouped = sort === 'starred';
 
-  const title = activeList ? listLabel(activeList.name) : null;
-  const heading = title ? (
-    <>
-      {title.split(' ').slice(0, -1).join(' ')} <em>{title.split(' ').at(-1)}</em>
-    </>
-  ) : collection === 'archive' ? (
-    <>
-      The <em>archive</em>
-    </>
-  ) : (
-    <>
-      Things worth <em>starring</em>
-    </>
-  );
+  const heading = activeList ? listLabel(activeList.name) : collection === 'archive' ? 'Archive' : 'Stars';
 
   return (
     <div className="shell">
       <aside className="side">
         <a className="mark" href={`https://github.com/${data.user}`} target="_blank" rel="noreferrer">
-          <span className="mark-star">✦</span> {data.user}
+          {data.user}
         </a>
 
         <nav aria-label="Collection">
@@ -290,11 +277,11 @@ export default function App() {
 
       <main className="main">
         <header className="masthead">
-          <p className="kicker">
-            A field guide to {data.stars.length.toLocaleString()} starred repositories
-            {since ? ` since ${since}` : ''}, plus {archiveCount} from the archive
-          </p>
           <h1>{heading}</h1>
+          <p className="lede">
+            {data.stars.length.toLocaleString()} repositories I've starred{since ? ` since ${since}` : ''}, and{' '}
+            {archiveCount} older bookmarks.
+          </p>
         </header>
 
         <div className="controls">
@@ -385,7 +372,7 @@ export default function App() {
         ) : (
           <div className="empty">
             <p>
-              Nothing matches <em>that</em>.
+              Nothing matches.
             </p>
             <button className="clear" onClick={reset}>
               Clear filters
