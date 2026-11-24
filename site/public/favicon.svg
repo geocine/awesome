@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#1f2328"/><path d="M16 5.5l3.1 6.4 7 1-5.1 4.9 1.2 7-6.2-3.3-6.2 3.3 1.2-7L5.9 12.9l7-1z" fill="#f5c542"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    rect { fill: #111110; }
+    path { fill: #fafafa; }
+    @media (prefers-color-scheme: dark) {
+      rect { fill: #ededec; }
+      path { fill: #0c0c0c; }
+    }
+  </style>
+  <rect width="32" height="32" rx="8" />
+  <path d="M16 7.5l2.35 5.45 5.9.55-4.45 3.9 1.32 5.8L16 20.15 10.88 23.2l1.32-5.8-4.45-3.9 5.9-.55z" />
+</svg>
